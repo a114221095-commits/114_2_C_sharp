@@ -32,10 +32,12 @@ namespace WindowsFormsApp1
 
         public Form1()
         {
-            InitializeComponent();
+            InitializeComponent(); // 設計器產生的初始化
+            InitializeCustomComponents(); // 自訂 UI 初始化（原本的 InitializeComponent 內容）  
         }
 
-        private void InitializeComponent()
+        // 將原本自訂的 InitializeComponent 改名以避免與 Designer 衝突
+        private void InitializeCustomComponents()
         {
             Text = "樂透號碼產生器";
             ClientSize = new Size(620, 360);
