@@ -29,3 +29,13 @@ D:\Documents\Books\C#\4th Edition\Completed Tutorials\Chapter 07\Tutorial 7-2\Te
 D:\Documents\Books\C#\4th Edition\Completed Tutorials\Chapter 07\Tutorial 7-2\Test Average\Test Average\obj\x86\Debug\Test_Average.Form1.resources
 D:\Documents\Books\C#\4th Edition\Completed Tutorials\Chapter 07\Tutorial 7-2\Test Average\Test Average\obj\x86\Debug\Test_Average.Properties.Resources.resources
 D:\Documents\Books\C#\4th Edition\Completed Tutorials\Chapter 07\Tutorial 7-2\Test Average\Test Average\obj\x86\Debug\Test Average.csproj.GenerateResource.Cache
+C:\Users\m303\Desktop\114_2_C_sharp\2026-03-12\Tutorial 7-2\Test Average\Test Average\bin\Debug\Test Average.exe.config
+C:\Users\m303\Desktop\114_2_C_sharp\2026-03-12\Tutorial 7-2\Test Average\Test Average\bin\Debug\Test Average.exe
+C:\Users\m303\Desktop\114_2_C_sharp\2026-03-12\Tutorial 7-2\Test Average\Test Average\bin\Debug\Test Average.pdb
+C:\Users\m303\Desktop\114_2_C_sharp\2026-03-12\Tutorial 7-2\Test Average\Test Average\obj\x86\Debug\Test Average.csproj.AssemblyReference.cache
+C:\Users\m303\Desktop\114_2_C_sharp\2026-03-12\Tutorial 7-2\Test Average\Test Average\obj\x86\Debug\Test_Average.Form1.resources
+C:\Users\m303\Desktop\114_2_C_sharp\2026-03-12\Tutorial 7-2\Test Average\Test Average\obj\x86\Debug\Test_Average.Properties.Resources.resources
+C:\Users\m303\Desktop\114_2_C_sharp\2026-03-12\Tutorial 7-2\Test Average\Test Average\obj\x86\Debug\Test Average.csproj.GenerateResource.cache
+C:\Users\m303\Desktop\114_2_C_sharp\2026-03-12\Tutorial 7-2\Test Average\Test Average\obj\x86\Debug\Test Average.csproj.CoreCompileInputs.cache
+C:\Users\m303\Desktop\114_2_C_sharp\2026-03-12\Tutorial 7-2\Test Average\Test Average\obj\x86\Debug\Test Average.exe
+C:\Users\m303\Desktop\114_2_C_sharp\2026-03-12\Tutorial 7-2\Test Average\Test Average\obj\x86\Debug\Test Average.pdb
