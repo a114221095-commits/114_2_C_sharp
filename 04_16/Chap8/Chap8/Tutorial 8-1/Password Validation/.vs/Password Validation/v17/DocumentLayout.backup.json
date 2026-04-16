@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Git Repos\\113_2_C_Sharp_Tutorial\\114_04_23\\Tutorial 8-1\\Password Validation\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{78789CEE-7DEA-496F-83EB-FB2A7274F429}|Password Validation\\Password Validation.csproj|E:\\Git Repos\\113_2_C_Sharp_Tutorial\\114_04_23\\Tutorial 8-1\\Password Validation\\password validation\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{78789CEE-7DEA-496F-83EB-FB2A7274F429}|Password Validation\\Password Validation.csproj|solutionrelative:password validation\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78789CEE-7DEA-496F-83EB-FB2A7274F429}|Password Validation\\Password Validation.csproj|e:\\git repos\\113_2_c_sharp_tutorial\\114_04_23\\tutorial 8-1\\password validation\\password validation\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78789CEE-7DEA-496F-83EB-FB2A7274F429}|Password Validation\\Password Validation.csproj|solutionrelative:password validation\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78789CEE-7DEA-496F-83EB-FB2A7274F429}|Password Validation\\Password Validation.csproj|E:\\Git Repos\\113_2_C_Sharp_Tutorial\\114_04_23\\Tutorial 8-1\\Password Validation\\password validation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78789CEE-7DEA-496F-83EB-FB2A7274F429}|Password Validation\\Password Validation.csproj|solutionrelative:password validation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [\u8A2D\u8A08]",
+              "DocumentMoniker": "E:\\Git Repos\\113_2_C_Sharp_Tutorial\\114_04_23\\Tutorial 8-1\\Password Validation\\Password Validation\\Form1.cs",
+              "RelativeDocumentMoniker": "Password Validation\\Form1.cs",
+              "ToolTip": "E:\\Git Repos\\113_2_C_Sharp_Tutorial\\114_04_23\\Tutorial 8-1\\Password Validation\\Password Validation\\Form1.cs [\u8A2D\u8A08]",
+              "RelativeToolTip": "Password Validation\\Form1.cs [\u8A2D\u8A08]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T08:02:10.055Z",
+              "EditorCaption": " [\u8A2D\u8A08]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "E:\\Git Repos\\113_2_C_Sharp_Tutorial\\114_04_23\\Tutorial 8-1\\Password Validation\\Password Validation\\Form1.cs",
+              "RelativeDocumentMoniker": "Password Validation\\Form1.cs",
+              "ToolTip": "E:\\Git Repos\\113_2_C_Sharp_Tutorial\\114_04_23\\Tutorial 8-1\\Password Validation\\Password Validation\\Form1.cs",
+              "RelativeToolTip": "Password Validation\\Form1.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAQwDQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T08:02:11.614Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Git Repos\\113_2_C_Sharp_Tutorial\\114_04_23\\Tutorial 8-1\\Password Validation\\Password Validation\\Program.cs",
+              "RelativeDocumentMoniker": "Password Validation\\Program.cs",
+              "ToolTip": "E:\\Git Repos\\113_2_C_Sharp_Tutorial\\114_04_23\\Tutorial 8-1\\Password Validation\\Password Validation\\Program.cs",
+              "RelativeToolTip": "Password Validation\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T08:02:11.618Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
