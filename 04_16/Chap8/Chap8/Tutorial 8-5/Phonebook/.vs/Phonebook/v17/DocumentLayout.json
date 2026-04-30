@@ -1,14 +1,18 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "E:\\Git Repos\\113_2_C_Sharp_Tutorial\\114_04_17\\Tutorial 8-5\\Phonebook\\",
+  "WorkspaceRootPath": "C:\\Users\\m303\\Desktop\\114_2_C_sharp\\04_16\\Chap8\\Chap8\\Tutorial 8-5\\Phonebook\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{387F58FC-8466-449F-8FEB-E3787E1F8004}|Phonebook\\Phonebook.csproj|e:\\git repos\\113_2_c_sharp_tutorial\\114_04_17\\tutorial 8-5\\phonebook\\phonebook\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{387F58FC-8466-449F-8FEB-E3787E1F8004}|Phonebook\\Phonebook.csproj|c:\\users\\m303\\desktop\\114_2_c_sharp\\04_16\\chap8\\chap8\\tutorial 8-5\\phonebook\\phonebook\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{387F58FC-8466-449F-8FEB-E3787E1F8004}|Phonebook\\Phonebook.csproj|solutionrelative:phonebook\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{387F58FC-8466-449F-8FEB-E3787E1F8004}|Phonebook\\Phonebook.csproj|E:\\Git Repos\\113_2_C_Sharp_Tutorial\\114_04_17\\Tutorial 8-5\\Phonebook\\phonebook\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{387F58FC-8466-449F-8FEB-E3787E1F8004}|Phonebook\\Phonebook.csproj|C:\\Users\\m303\\Desktop\\114_2_C_sharp\\04_16\\Chap8\\Chap8\\Tutorial 8-5\\Phonebook\\phonebook\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{387F58FC-8466-449F-8FEB-E3787E1F8004}|Phonebook\\Phonebook.csproj|solutionrelative:phonebook\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{387F58FC-8466-449F-8FEB-E3787E1F8004}|Phonebook\\Phonebook.csproj|c:\\users\\m303\\desktop\\114_2_c_sharp\\04_16\\chap8\\chap8\\tutorial 8-5\\phonebook\\phonebook\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{387F58FC-8466-449F-8FEB-E3787E1F8004}|Phonebook\\Phonebook.csproj|solutionrelative:phonebook\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,19 +22,36 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\m303\\Desktop\\114_2_C_sharp\\04_16\\Chap8\\Chap8\\Tutorial 8-5\\Phonebook\\Phonebook\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Phonebook\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\m303\\Desktop\\114_2_C_sharp\\04_16\\Chap8\\Chap8\\Tutorial 8-5\\Phonebook\\Phonebook\\Form1.Designer.cs*",
+              "RelativeToolTip": "Phonebook\\Form1.Designer.cs*",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAwwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-30T06:39:50.607Z",
+              "EditorCaption": ""
+            },
+            {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+              "Name": "ST:0:0:{56df62a4-05a3-4e5b-aa1a-99371ccfb997}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Form1.cs",
-              "DocumentMoniker": "E:\\Git Repos\\113_2_C_Sharp_Tutorial\\114_04_17\\Tutorial 8-5\\Phonebook\\Phonebook\\Form1.cs",
+              "DocumentMoniker": "C:\\Users\\m303\\Desktop\\114_2_C_sharp\\04_16\\Chap8\\Chap8\\Tutorial 8-5\\Phonebook\\Phonebook\\Form1.cs",
               "RelativeDocumentMoniker": "Phonebook\\Form1.cs",
-              "ToolTip": "E:\\Git Repos\\113_2_C_Sharp_Tutorial\\114_04_17\\Tutorial 8-5\\Phonebook\\Phonebook\\Form1.cs",
+              "ToolTip": "C:\\Users\\m303\\Desktop\\114_2_C_sharp\\04_16\\Chap8\\Chap8\\Tutorial 8-5\\Phonebook\\Phonebook\\Form1.cs",
               "RelativeToolTip": "Phonebook\\Form1.cs",
               "ViewState": "AgIAABoAAAAAAAAAAAAwwDQAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -41,29 +62,13 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Form1.cs [\u8A2D\u8A08]",
-              "DocumentMoniker": "E:\\Git Repos\\113_2_C_Sharp_Tutorial\\114_04_17\\Tutorial 8-5\\Phonebook\\Phonebook\\Form1.cs",
+              "DocumentMoniker": "C:\\Users\\m303\\Desktop\\114_2_C_sharp\\04_16\\Chap8\\Chap8\\Tutorial 8-5\\Phonebook\\Phonebook\\Form1.cs",
               "RelativeDocumentMoniker": "Phonebook\\Form1.cs",
-              "ToolTip": "F:\\LectureNotes\\Programming\\Visual C#\\Gaddis-Starting out with Visual C#, Global Edition, 4E\\ISM\\Completed Tutorials\\Chapter 08\\Tutorial 8-5\\Phonebook\\Phonebook\\Form1.cs [\u8A2D\u8A08]*",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
-              "WhenOpened": "2025-04-23T08:12:45.444Z"
-            }
-          ]
-        },
-        {
-          "DockedWidth": 117,
-          "SelectedChildIndex": -1,
-          "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+              "ToolTip": "C:\\Users\\m303\\Desktop\\114_2_C_sharp\\04_16\\Chap8\\Chap8\\Tutorial 8-5\\Phonebook\\Phonebook\\Form1.cs [\u8A2D\u8A08]",
+              "RelativeToolTip": "Phonebook\\Form1.cs [\u8A2D\u8A08]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T08:12:45.444Z",
+              "EditorCaption": " [\u8A2D\u8A08]"
             }
           ]
         }
