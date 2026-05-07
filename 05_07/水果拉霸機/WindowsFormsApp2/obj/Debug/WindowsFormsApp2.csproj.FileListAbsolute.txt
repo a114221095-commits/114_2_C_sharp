@@ -1,0 +1,11 @@
+C:\Users\m303\Desktop\114_2_C_sharp\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.AssemblyReference.cache
+C:\Users\m303\Desktop\114_2_C_sharp\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\SlotMachine.Form1.resources
+C:\Users\m303\Desktop\114_2_C_sharp\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+C:\Users\m303\Desktop\114_2_C_sharp\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+C:\Users\m303\Desktop\114_2_C_sharp\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+C:\Users\m303\Desktop\114_2_C_sharp\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+C:\Users\m303\Desktop\114_2_C_sharp\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+C:\Users\m303\Desktop\114_2_C_sharp\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+C:\Users\m303\Desktop\114_2_C_sharp\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+C:\Users\m303\Desktop\114_2_C_sharp\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+C:\Users\m303\Desktop\114_2_C_sharp\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe.config

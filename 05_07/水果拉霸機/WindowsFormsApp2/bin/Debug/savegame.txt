@@ -1,0 +1,4 @@
+﻿balance=49596
+totalDeposited=51000
+totalSpins=58
+winCount=16
